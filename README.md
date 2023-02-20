@@ -7,6 +7,7 @@
 
 <div>
   <a href="http://github.com/ErickGabrielCP">
+  <a href="[http://github.com/ErickGabrielCP](https://www.linkedin.com/in/erick-gabriel-cardoso-pereira-bba26b21a/)">
   <img height="180em" src="http://github-readme-stats.vercel.app/api?username=ErickGabrielCP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=ErickGabrielCP&layout=compact&langs_count=16&theme=dark"/>
 </div>
